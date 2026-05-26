@@ -6,5 +6,5 @@ This project demonstrates the practical application of digital circuits in solvi
 
 Block diagram:![WhatsApp Image 2025-10-26 at 13 25 04_02456c46](https://github.com/user-attachments/assets/8fb81d7c-7d72-478c-92e8-00de66a2d119)
 
-Hardware Implementation:<img width="868" height="1160" alt="image" src="https://github.com/user-attachments/assets/9237a777-6f0b-4a88-bff2-09f174e465a9" />
+Hardware Implementation:<img width="1085" height="1450" alt="work_1" src="https://github.com/user-attachments/assets/1007cf9e-c61e-4747-b205-83cbee383833" />
 
